@@ -14,6 +14,6 @@ Reading,Sheffield,4,5,184,50.1,1
 Sheffield,Manchester Piccadilly,5,6,51,50.5,1
 Manchester Piccadilly,Preston,6,7,37,22.85,1
 Preston,Oxenholme,7,8,26,9.8,1
-Preston,Lakes,7,9,60,70,1
-Oxenholme,Lakes,8,9,30,35,1
+Preston,Lakes,7,9,60,70,0
+Oxenholme,Lakes,8,9,30,35,0
 Lakes,Lakes,9,9,0,0,0
